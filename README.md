@@ -227,7 +227,7 @@ Explore my projects, experiments and development work.
 ### 💼 My Portfolio 
 
 <a href="file:///D:/My%20self%20portpholio/index.html">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="45" alt="Portfolio"/>
+  💼
 </a>
 
 <br>

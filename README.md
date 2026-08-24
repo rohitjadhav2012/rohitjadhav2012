@@ -6,30 +6,77 @@
 
 **Building real-world projects • Solving problems • Learning continuously**
 
-## 🌐 Connect With Me
+## 🌐 Find Me Online
 
-<div align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 💻 GitHub
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="45"/>
 </a>
-&nbsp;
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME">
+  rohitjadhav2005
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### 💼 LinkedIn
+
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45"/>
 </a>
-&nbsp;
+
+<br>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+  Connect with me
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩 LeetCode
+
 <a href="https://leetcode.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
 </a>
-&nbsp;
+
+<br>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+  View my solutions
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### ✉️ Email
+
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
 </a>
 
-</div>
+<br>
 
-</div>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  Contact me
+</a>
 
+</td>
+
+</tr>
+</table>
 ---
 
 ## 👨‍💻 About Me

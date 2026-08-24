@@ -206,7 +206,7 @@ I practice programming problems to strengthen my:
 
 ---
 
-# 🌐 Find me online On ..
+# 🌐 Across the Web..
 
 <div align="center">
 

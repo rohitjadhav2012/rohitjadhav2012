@@ -95,59 +95,6 @@ A responsive e-commerce website inspired by modern shopping platforms.
 
 ---
 
-### 🚗 Premium Car Showroom
-
-A modern automotive website designed to showcase premium cars with an interactive user experience.
-
-**Tech:** `HTML` `CSS` `Bootstrap` `JavaScript`
-
-**Key Features**
-
-* Premium landing page
-* Car categories
-* Car details
-* Comparison functionality
-* Interactive UI
-* Responsive design
-
----
-
-### 🏎️ Highway Racer
-
-A browser-based racing game developed using vanilla web technologies.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-**Key Features**
-
-* Multiple cars
-* Speed system
-* Nitro functionality
-* Coin collection
-* Car selection
-* Sound effects
-* Game progression
-
----
-
-### 📅 Smart Calendar
-
-A smart calendar application designed to organize assignments, exams, meetings, roadmaps and personal tasks.
-
-**Tech:** `React` `TypeScript` `CSS`
-
-**Key Features**
-
-* Monthly calendar
-* Event management
-* Assignment tracking
-* Roadmap planning
-* Priority management
-* Event completion
-* Local storage
-
----
-
 ### 🎓 NEXUS AI — Smart College Management System
 
 A college management platform designed to combine productivity and intelligent student tools.

@@ -131,15 +131,15 @@ A smart study management platform designed to improve student productivity and a
 # 🧠 What I'm Working On
 
 ```text
-┌──────────────────────────────────────────┐
-│              CURRENT FOCUS               │
-├──────────────────────────────────────────┤
-│                                          │
+┌──────────────────────────────────────────-┐
+│              CURRENT FOCUS                │
+├──────────────────────────────────────────-┤
+│                                           │
 │  ⚡ JavaScript & React                   │
 │  🌐 Modern Web Development               │
 │  🗄️ SQL & Database Management            │
 │  🧩 Data Structures & Algorithms         │
-│  ☕ Java Development                      │
+│  ☕ Java Development                     │
 │  🚀 Full-Stack Development               │
 │                                          │
 └──────────────────────────────────────────┘
@@ -182,33 +182,13 @@ My current focus is moving from **frontend development toward full-stack develop
 
 I practice programming problems to strengthen my:
 
-| Skill        | Focus                          |
-| :----------- | :----------------------------- |
-| 🧠 Logic     | Logical thinking & reasoning   |
-| 🧩 DSA       | Data Structures & Algorithms   |
-| 🗄️ SQL      | Queries, functions & databases |
+| Skill        | Focus                           |
+| :----------- | :-----------------------------  |
+| 🧠 Logic     | Logical thinking & reasoning    |
+| 🧩 DSA       | Data Structures & Algorithms    |
+| 🗄️ SQL      | Queries, functions & databases   |
 | ⚡ Efficiency | Time & Space Complexity        |
-| 💻 Coding    | Clean & maintainable solutions |
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohitjadhav2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjadhav2005&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitjadhav2005&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
+| 💻 Coding    | Clean & maintainable solutions  |
 
 ---
 

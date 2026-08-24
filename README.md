@@ -45,7 +45,7 @@ I learn primarily by building projects, experimenting with technologies, solving
 </p>
 
 `C` · `C++` · `Java` · `Python` · `JavaScript`
-
+<br>
 ### 🌐 Web Development
 <br>
 <p>
@@ -59,7 +59,7 @@ I learn primarily by building projects, experimenting with technologies, solving
 </p>
 
 `HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `React`
-
+<br>
 ### 🗄️ Database & Development Tools
 <br>
 <p>

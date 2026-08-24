@@ -1,5 +1,4 @@
-<div align="center">
-
+ 
 # 👋 Hi, I'm **Rohit Jadhav**
 
 ### 💻 Computer Engineering Student · Web Developer · Problem Solver
@@ -232,8 +231,8 @@ I practice programming problems to strengthen my:
 <div align="center">
 
 ### 💻 Code
-
-<a href="https://github.com/rohitjadhav2005">
+ 
+<a href="https://github.com/rohitjadhav2012">
 <img src="https://cdn.simpleicons.org/github/181717" width="38"/>
 </a>
 
@@ -293,10 +292,9 @@ For collaboration, opportunities and professional communication.
 
 ## ⚡ Build. Break. Learn. Improve.
 
-**Thanks for visiting my profile.**
+**Thanks for visiting my profile.☺️**
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=rohitjadhav2005&style=flat-square&color=blue" alt="Profile Views"/>
 
-</div>

@@ -8,24 +8,7 @@
 
 <br>
 
-<a href="https://github.com/rohitjadhav2005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
+ 
 ---
 
 ## 🧭 About Me
@@ -264,8 +247,8 @@ Explore my projects, experiments and development work.
 
 ### 🧩 Problem Solving
 
-<a href="YOUR_LEETCODE_URL">
-<img src="[https://cdn.simpleicons.org/leetcode/FFA116](https://leetcode.com/u/Rohitjadhav2005/)" width="38"/>
+<a href="https://leetcode.com/u/Rohitjadhav2005/">
+<img src=https://cdn.simpleicons.org/leetcode/FFA116"" width="38"/>
 </a>
 
 <br>
@@ -278,8 +261,8 @@ Follow my journey in Data Structures, Algorithms and SQL.
 
 ### 💼 Professional Network
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://www.linkedin.com/feed/)" width="38"/>
+<a href="https://www.linkedin.com/in/rohit-jadhav-9474ab32a/">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38"/>
 </a>
 
 <br>
@@ -292,8 +275,8 @@ Connect with me professionally and follow my career journey.
 
 ### ✉️ Direct Contact
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="[https://cdn.simpleicons.org/gmail/EA4335](https://mail.google.com/mail/u/0/#inbox)" width="38"/>
+<a href="https://mail.google.com/mail/u/0/#inbox">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38"/>
 </a>
 
 <br>

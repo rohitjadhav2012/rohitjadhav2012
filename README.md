@@ -31,7 +31,7 @@ I learn primarily by building projects, experimenting with technologies, solving
 # 🛠️ Technology Stack
 
 ### 👨‍💻 Languages
-
+<br>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
 &nbsp;
@@ -47,7 +47,7 @@ I learn primarily by building projects, experimenting with technologies, solving
 `C` · `C++` · `Java` · `Python` · `JavaScript`
 
 ### 🌐 Web Development
-
+<br>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 &nbsp;
@@ -61,7 +61,7 @@ I learn primarily by building projects, experimenting with technologies, solving
 `HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `React`
 
 ### 🗄️ Database & Development Tools
-
+<br>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55"/>
 &nbsp;

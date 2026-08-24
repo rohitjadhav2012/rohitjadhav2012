@@ -244,7 +244,7 @@ I practice programming problems to strengthen my:
 
 ---
 
-# 🌐 Digital Presence
+# 🌐 Find me online On ..
 
 <div align="center">
 
@@ -265,7 +265,7 @@ Explore my projects, experiments and development work.
 ### 🧩 Problem Solving
 
 <a href="YOUR_LEETCODE_URL">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38"/>
+<img src="[https://cdn.simpleicons.org/leetcode/FFA116](https://leetcode.com/u/Rohitjadhav2005/)" width="38"/>
 </a>
 
 <br>
@@ -279,7 +279,7 @@ Follow my journey in Data Structures, Algorithms and SQL.
 ### 💼 Professional Network
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38"/>
+<img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://www.linkedin.com/feed/)" width="38"/>
 </a>
 
 <br>
@@ -293,7 +293,7 @@ Connect with me professionally and follow my career journey.
 ### ✉️ Direct Contact
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38"/>
+<img src="[https://cdn.simpleicons.org/gmail/EA4335](https://mail.google.com/mail/u/0/#inbox)" width="38"/>
 </a>
 
 <br>

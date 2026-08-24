@@ -85,13 +85,13 @@ I am a **Computer Engineering student** with a strong interest in **Web Developm
 
 I enjoy transforming ideas into functional applications and continuously improving my technical skills through hands-on projects and coding practice.
 
-* 🎓 Computer Engineering Student
-* 💻 Focused on Web & Software Development
-* 🌐 Building responsive and interactive web applications
-* 🧩 Practicing Data Structures & Algorithms
-* 🗄️ Learning database design and SQL
-* 🚀 Interested in developing real-world applications
-* 📚 Continuously learning new technologies
+  🎓 Computer Engineering Student
+  💻 Focused on Web & Software Development
+  🌐 Building responsive and interactive web applications
+  🧩 Practicing Data Structures & Algorithms
+  🗄️ Learning database design and SQL
+  🚀 Interested in developing real-world applications
+  📚 Continuously learning new technologies
 
 ---
 

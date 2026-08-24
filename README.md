@@ -1,257 +1,306 @@
 <div align="center">
 
-# 👋 Hi, I'm Rohit Jadhav
+# 👋 Hi, I'm **Rohit Jadhav**
 
-### 💻 Computer Engineering Student | Web Developer | Software Enthusiast
+### 💻 Computer Engineering Student · Web Developer · Problem Solver
 
-**Building real-world projects • Solving problems • Learning continuously**
-
-## 🌐 Find Me Online
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### 💻 GitHub
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://cdn.simpleicons.org/github/181717" width="45"/>
-</a>
+**I build practical applications, explore new technologies, and turn ideas into working projects.**
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
-  rohitjadhav2005
+<a href="https://github.com/rohitjadhav2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-</td>
-
-<td align="center" width="25%">
-
-### 💼 LinkedIn
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45"/>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
-<br>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-  Connect with me
+&nbsp;
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </a>
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩 LeetCode
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
-</a>
-
-<br>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-  View my solutions
-</a>
-
-</td>
-
-<td align="center" width="25%">
-
-### ✉️ Email
-
+&nbsp;
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<br>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  Contact me
-</a>
-
-</td>
-
-</tr>
-</table>
----
-
-## 👨‍💻 About Me
-
-I am a **Computer Engineering student** with a strong interest in **Web Development, Software Development, and Problem Solving**.
-
-I enjoy transforming ideas into functional applications and continuously improving my technical skills through hands-on projects and coding practice.
-
-  🎓 Computer Engineering Student
-  💻 Focused on Web & Software Development
-  🌐 Building responsive and interactive web applications
-  🧩 Practicing Data Structures & Algorithms
-  🗄️ Learning database design and SQL
-  🚀 Interested in developing real-world applications
-  📚 Continuously learning new technologies
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧭 About Me
 
-### Programming Languages
+I'm a **Computer Engineering student** focused on developing strong skills in **Web Development, Software Development, Databases, and Problem Solving**.
+
+I learn primarily by building projects, experimenting with technologies, solving coding problems, and improving my implementations.
+
+```text
+🎓 Computer Engineering Student
+💻 Web & Software Development
+🌐 Responsive Web Applications
+🧩 Data Structures & Algorithms
+🗄️ SQL & Database Management
+🚀 Real-World Project Development
+📚 Continuous Learning
+```
+
+---
+
+# 🛠️ Technology Stack
+
+### 👨‍💻 Languages
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
-`C` `C++` `Java` `Python` `JavaScript`
+`C` · `C++` · `Java` · `Python` · `JavaScript`
 
-### Web Development
+### 🌐 Web Development
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 </p>
 
-`HTML5` `CSS3` `Bootstrap` `JavaScript` `React`
+`HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `React`
 
-### Database & Tools
+### 🗄️ Database & Development Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
-`MySQL` `SQL` `Git` `GitHub` `VS Code`
+`MySQL` · `SQL` · `Git` · `GitHub` · `VS Code`
 
 ---
 
 # 🚀 Featured Projects
 
-### 🛒 Shopsy E-Commerce Clone
+<table>
+<tr>
 
-A responsive e-commerce website inspired by modern shopping platforms.
+<td width="50%" valign="top">
 
-**Tech:** `HTML` `CSS` `Bootstrap` `JavaScript`
+## 🛒 Shopsy E-Commerce
 
-**Key Features**
+A responsive e-commerce interface inspired by modern online shopping platforms.
 
-* Product listing
+**Tech Stack**
+
+`HTML` `CSS` `Bootstrap` `JavaScript`
+
+**Highlights**
+
+* Product browsing
 * Search functionality
 * Shopping cart
 * Quantity management
-* Login & registration interface
-* Responsive design
+* Login & registration
+* Responsive interface
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎓 NEXUS AI
+
+A smart study management platform designed to improve student productivity and academic organization.
+
+**Tech Stack**
+
+`React` `TypeScript` `JavaScript`
+
+**Highlights**
+
+* 🤖 AI Assistant
+* 📅 Smart Calendar
+* 📝 Assignment Management
+* 🗺️ Roadmap
+* 🔔 Notifications
+* 📊 Student productivity tools
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🎓 NEXUS AI — Smart study Management System
-
-A college management platform designed to combine productivity and intelligent student tools.
-
-**Tech:** `React` `TypeScript` `JavaScript`
-
-**Concepts**
-
-* Smart Calendar
-* Assignment Management
-* AI Assistant
-* Student productivity
-* Roadmap management
-* Notification system
-
----
-
-# 📚 Currently Learning
+# 🧠 What I'm Working On
 
 ```text
-Web Development
-       ↓
-JavaScript & React
-       ↓
-Backend Development
-       ↓
-Database Management
-       ↓
-Data Structures & Algorithms
-       ↓
-Full-Stack Development
+┌──────────────────────────────────────────┐
+│              CURRENT FOCUS               │
+├──────────────────────────────────────────┤
+│                                          │
+│  ⚡ JavaScript & React                   │
+│  🌐 Modern Web Development               │
+│  🗄️ SQL & Database Management            │
+│  🧩 Data Structures & Algorithms         │
+│  ☕ Java Development                      │
+│  🚀 Full-Stack Development               │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
-I am currently focusing on improving my **JavaScript, React, SQL, Java, DSA, and full-stack development** skills.
+My current focus is moving from **frontend development toward full-stack development**, while strengthening my programming fundamentals and problem-solving abilities.
 
 ---
 
-# 🧠 Problem Solving
-
-I regularly practice programming problems to improve:
-
-* Data Structures
-* Algorithms
-* SQL
-* Logical Thinking
-* Problem Solving
-* Time & Space Complexity
-
-**Goal:** Become stronger at writing efficient and maintainable code.
-
----
-
-# 📈 Development Philosophy
-
-> **Learn → Build → Debug → Improve → Repeat**
-
-I believe the best way to learn software development is by building projects, understanding mistakes, and continuously improving the implementation.
-
----
-
-# 🎯 2026 Goals
-
-* [ ] Strengthen JavaScript & React
-* [ ] Learn backend development
-* [ ] Build full-stack applications
-* [ ] Improve DSA & problem-solving skills
-* [ ] Build more real-world projects
-* [ ] Contribute to open-source projects
-* [ ] Build a strong developer portfolio
-* [ ] Prepare for software development opportunities
-
----
-
-# 📊 GitHub Activity
+# 📈 My Development Journey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+```text
+       LEARN
+         │
+         ▼
+       BUILD
+         │
+         ▼
+       DEBUG
+         │
+         ▼
+      IMPROVE
+         │
+         ▼
+       DEPLOY
+         │
+         ▼
+       REPEAT 🔁
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</div>
+
+> **Every project is an opportunity to learn something new.**
+
+---
+
+# 🧩 Problem Solving
+
+I practice programming problems to strengthen my:
+
+| Skill        | Focus                          |
+| :----------- | :----------------------------- |
+| 🧠 Logic     | Logical thinking & reasoning   |
+| 🧩 DSA       | Data Structures & Algorithms   |
+| 🗄️ SQL      | Queries, functions & databases |
+| ⚡ Efficiency | Time & Space Complexity        |
+| 💻 Coding    | Clean & maintainable solutions |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohitjadhav2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjadhav2005&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitjadhav2005&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 2026 Roadmap
+
+* [ ] Master JavaScript & React
+* [ ] Learn Backend Development
+* [ ] Build Full-Stack Applications
+* [ ] Strengthen DSA
+* [ ] Improve SQL & Database Design
+* [ ] Build Production-Level Projects
+* [ ] Contribute to Open Source
+* [ ] Develop a Strong Developer Portfolio
+* [ ] Prepare for Software Development Opportunities
+
+---
+
+# 🌐 Digital Presence
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### 💻 Code
+
+<a href="https://github.com/rohitjadhav2005">
+<img src="https://cdn.simpleicons.org/github/181717" width="38"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br>
+
+**GitHub**
+
+Explore my projects, experiments and development work.
+
+---
+
+### 🧩 Problem Solving
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38"/>
 </a>
+
+<br>
+
+**LeetCode**
+
+Follow my journey in Data Structures, Algorithms and SQL.
+
+---
+
+### 💼 Professional Network
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38"/>
+</a>
+
+<br>
+
+**LinkedIn**
+
+Connect with me professionally and follow my career journey.
+
+---
+
+### ✉️ Direct Contact
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38"/>
 </a>
+
+<br>
+
+**Email**
+
+For collaboration, opportunities and professional communication.
 
 </div>
 
@@ -259,8 +308,12 @@ I believe the best way to learn software development is by building projects, un
 
 <div align="center">
 
-### 💻 Code. Build. Learn. Repeat.
+## ⚡ Build. Break. Learn. Improve.
 
-⭐ **Thanks for visiting my profile!**
+**Thanks for visiting my profile.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rohitjadhav2005&style=flat-square&color=blue" alt="Profile Views"/>
 
 </div>

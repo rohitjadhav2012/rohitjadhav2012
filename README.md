@@ -240,11 +240,9 @@ Follow my journey in Data Structures, Algorithms and SQL.
 
 ### 💼 Professional Network
 
-<a href="">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38"/>
-</a>
+ 
 <a href="https://www.linkedin.com/in/rohit-jadhav-9474ab32a/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" alt="LinkedIn"/>
 </a>
 
 <br>

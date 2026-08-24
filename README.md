@@ -95,7 +95,7 @@ A responsive e-commerce website inspired by modern shopping platforms.
 
 ---
 
-### 🎓 NEXUS AI — Smart College Management System
+### 🎓 NEXUS AI — Smart study Management System
 
 A college management platform designed to combine productivity and intelligent student tools.
 

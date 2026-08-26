@@ -173,20 +173,6 @@ Explore my projects, experiments and development work.
 
 ---
 
-### 💼 My Portfolio 
-
-<a href="file:///D:/My%20self%20portpholio/index.html">
-   <img src="images/portfolio-website.svg" alt="Developer Workspace" width="35"/>
-</a>
-
-<br>
-
-**Portfolio**
-
-Check me out ...
-
----
-
 ### 🧩 Problem Solving
 
 <a href="https://leetcode.com/u/Rohitjadhav2005/">

@@ -226,5 +226,4 @@ For collaboration, opportunities and professional communication.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rohitjadhav2005&style=flat-square&color=blue" alt="Profile Views"/>
-
+ 

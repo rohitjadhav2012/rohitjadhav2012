@@ -176,7 +176,7 @@ Explore my projects, experiments and development work.
 ### 💼 My Portfolio 
 
 <a href="file:///D:/My%20self%20portpholio/index.html">
-   <img src="https://img.icons8.com/?size=100&id=6476&format=png&color=000000" width="35">
+   <img src="images/portfolio-website.svg" alt="Developer Workspace" width="35">
 </a>
 
 <br>

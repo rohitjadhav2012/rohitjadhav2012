@@ -75,58 +75,7 @@ I learn primarily by building projects, experimenting with technologies, solving
 `MySQL` · `SQL` · `Git` · `GitHub` · `VS Code`
 
 ---
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛒 Shopsy E-Commerce
-
-A responsive e-commerce interface inspired by modern online shopping platforms.
-
-**Tech Stack**
-
-`HTML` `CSS` `Bootstrap` `JavaScript`
-
-**Highlights**
-
-* Product browsing
-* Search functionality
-* Shopping cart
-* Quantity management
-* Login & registration
-* Responsive interface
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎓 NEXUS AI
-
-A smart study management platform designed to improve student productivity and academic organization.
-
-**Tech Stack**
-
-`React` `TypeScript` `JavaScript`
-
-**Highlights**
-
-* 🤖 AI Assistant
-* 📅 Smart Calendar
-* 📝 Assignment Management
-* 🗺️ Roadmap
-* 🔔 Notifications
-* 📊 Student productivity tools
-
-</td>
-
-</tr>
-</table>
-
----
+ ---
 
 # 🧠 What I'm Working On
 
@@ -227,7 +176,7 @@ Explore my projects, experiments and development work.
 ### 💼 My Portfolio 
 
 <a href="file:///D:/My%20self%20portpholio/index.html">
-  💼
+   <img src="https://img.icons8.com/?size=100&id=6476&format=png&color=000000" width="35">
 </a>
 
 <br>

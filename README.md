@@ -4,7 +4,8 @@
 ### 💻 Computer Engineering Student · Web Developer · Problem Solver
 
 **I build practical applications, explore new technologies, and turn ideas into working projects.**
-
+**🎓 AI/ML Student | 💻 C • C++ • Java • Python • SQL | 🤖 Artificial Intelligence & Machine Learning | 🌐 HTML • CSS • JavaScript • Bootstrap | 🧩 DSA & Problem Solving | 🗄️ DBMS & MySQL | 📊 Data Analysis & Data Science | 🛠️ Git & GitHub | 🚀 Building Real-World Projects | 🔍 Exploring New Technologies | 🎯 Aspiring Software & AI/ML Engineer
+**
 <br>
 
  
